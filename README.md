@@ -6,7 +6,7 @@ Demostrar ejecución concurrente de dos tareas en ESP32 usando FreeRTOS, mostran
 ## 🛠 Materiales
 - Placa ESP32
 - Cable USB
-- Arduino IDE con soporte ESP32
+- PlatformIO dentro de Visual Studio Code con soporte ESP32
 
 ## Logros alcanzados
 
